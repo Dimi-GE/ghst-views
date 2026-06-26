@@ -1,0 +1,426 @@
+{
+  "generatedAt": "2026-06-26T16:26:32.786Z",
+  "extensions": {
+    "ghostery": {
+      "name": "Ghostery",
+      "stores": {
+        "chrome": {
+          "total": 8037,
+          "fetched": 23,
+          "windowDays": 7,
+          "complete": true,
+          "reviews": [
+            {
+              "id": "f7a19768-62f6-4480-8b8a-d2ae20109b5c",
+              "name": "No One",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLf-qP_eNtyvzWw0QhfwiC2YO3Wyl44fXj_TwSrVTup08W8MA=s48-mo",
+              "rating": 4,
+              "text": "one of the best ads blocker. you should definitely take it in your extension list",
+              "ts": 1782485063000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "aa459efc-7f2f-49d5-8ee4-92ae5396a0ea",
+              "name": "Hector Donoso",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUXZe_dZhmHR3vnksm3aAV1fVV3lX7lNjLRgekq8KnFgybX_Y4S=s48",
+              "rating": 4,
+              "text": "Muy util",
+              "ts": 1782484250000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "es"
+            },
+            {
+              "id": "8d9a7920-5e7f-4afc-855a-6c920f2477ca",
+              "name": "Andre Marcos Leme",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXjk1gWNcOzpXCidv8KYKGZ6szwnBM_2GNr6HKhaQAw6dJN1eXq=s48",
+              "rating": 5,
+              "text": "Muito bom. Cumpre o que promete.",
+              "ts": 1782470832000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "pt"
+            },
+            {
+              "id": "dbbfc274-0302-4334-bc25-8a855816e1d5",
+              "name": "shadman bashar",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjWMGAReZGqK-X7D02AF-GO-CGaBtbQQ_szD4HM5UojTXwoka6M=s48",
+              "rating": 5,
+              "text": "have been using it for one year and honestly it's a solid add blocker. Definitely recommend it if you are using chrome.",
+              "ts": 1782451043000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "c22f9b2e-7cbc-435d-a44a-2977c98f2f7d",
+              "name": "PO PO Gwola",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJSFSOK9VmRPDbUyS4MCJDRzhbnled6vwgEFZ87AIfG1-OP0Q=s48-mo",
+              "rating": 4,
+              "text": "good",
+              "ts": 1782443598000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "0c92b1fb-cb2b-47d2-9b2a-5e0537cbb946",
+              "name": "Joseph Owsik",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVeZLTCbVghcXqVXkY-SZMskYBZtzJSJRoyumecXTUIJSMJJbTFdA=s48",
+              "rating": 5,
+              "text": "Works Great!",
+              "ts": 1782345798000,
+              "date": "Jun 25, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "1298bcab-2ec0-418e-93df-cab0e6fcd04c",
+              "name": "Niyaaz Rojan",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjULXbDxFRzcKdlQ_6yydIXDqNC12rS6qhMDsDoe7_wKKCFwd8g=s48",
+              "rating": 4,
+              "text": "Seems to work good. I'm not smart enough to figure out if there is any malware but I've heard that it is trustable and with the new Youtube ads it still works. If anything goes wrong I'll be back.",
+              "ts": 1782333833000,
+              "date": "Jun 24, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "66b0163d-c26c-48a8-93c3-8446ff5a417c",
+              "name": "Robert Leitner (DerLeiti)",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU-5_Jw78dms7x5k2HPaimt1_wx8d_oBcgSGQDEgY08jjjZN_Q=s48",
+              "rating": 5,
+              "text": "Funktioniert, wie es soll, Danke!",
+              "ts": 1782325865000,
+              "date": "Jun 24, 2026",
+              "version": "10.5.49",
+              "lang": "de"
+            },
+            {
+              "id": "a252abd7-644e-44e2-b107-cf728081f502",
+              "name": "40-Hamza Asif",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU7n805uq7r9TdBFlDxEVfEcypyF6sioxp-rC2BsQK0A8rDlG4=s48",
+              "rating": 5,
+              "text": "this extension is absolutely very good. Good for watching movie on those website have very awkward ads again and again its help me so much in that case.",
+              "ts": 1782303365000,
+              "date": "Jun 24, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "4baae6a0-23f1-4c68-931a-36394ce38376",
+              "name": "Benjamin VIOLET",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLToxBKtZqRTkCYk2pc4iCoKmYLLLGud_SfvxXvWEiByitykQ=s48-mo",
+              "rating": 5,
+              "text": "au top",
+              "ts": 1782294717000,
+              "date": "Jun 24, 2026",
+              "version": "10.5.49",
+              "lang": "fr"
+            },
+            {
+              "id": "45a33350-af26-4aa5-a549-981a46e29e19",
+              "name": "Ivo Pavlik",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUcl_MwdHlicVHUUM01XJ3ieze4knyNG3q40C2s82x1O77dQKpgIw=s48",
+              "rating": 5,
+              "text": "So far so good.",
+              "ts": 1782252420000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "9ceac5a8-cf1e-4302-8d93-a5fd0c182e41",
+              "name": "philipedward starkey",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKT8OGwp7siS-Y-QTOldYX_dRmNmYX8FNz5X9uQOjPHcKetNg=s48-mo",
+              "rating": 4,
+              "text": "Ghostery is about the best free add blocker that I have found, it works overall very well on YouTube, but needs a nudge sometimes. \nYes I would recommend it.",
+              "ts": 1782222360000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.48",
+              "lang": "en"
+            },
+            {
+              "id": "665a7cab-d7f8-4fa0-a494-2f926c98744e",
+              "name": "jeanphi toto",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7GHwOleeHGBVVU_ph8imined8dQVuNbXdQX3pMRbm_q0KdQ=s48-mo",
+              "rating": 5,
+              "text": "trés bien, pratique, efficace, discret, peut se desactiver temporairement trés simplement... Je conseille :)",
+              "ts": 1782219555000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.48",
+              "lang": "fr"
+            },
+            {
+              "id": "2ee24ab0-ac9c-41e9-9e75-6bb3e24686a5",
+              "name": "D9 RESERVE",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVOCpijylZrKaNcIXgSbC5ZjiveZnQFAYJi_WbSzyvEER1kD8M=s48",
+              "rating": 5,
+              "text": "文句なしの最強拡張機能！！",
+              "ts": 1782205924000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.48",
+              "lang": "ja"
+            },
+            {
+              "id": "3383adaa-4714-466a-808e-e91cb0e76d99",
+              "name": "Richard Patrick",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXU9hC_u91Og14BOmpsqIfFJSDZmhaPXl5npVdgUeZhOkMIKZF-=s48",
+              "rating": 5,
+              "text": "An extreamly crucial utility for any computer.\nA must have program. Easey and powerful.\nLong time user.",
+              "ts": 1782175321000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.48",
+              "lang": "en"
+            },
+            {
+              "id": "43be58f2-b388-4c03-920c-f579c32aa3ef",
+              "name": "Julian Pelaez",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEXkASeDhxEakYrf5d_83IGPHEs0hdvx18P4sswWoE0H6ZtQ=s48-mo",
+              "rating": 5,
+              "text": "muy bueno lo llevo usando varios años y es unos de mis preferidos",
+              "ts": 1782145288000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "es"
+            },
+            {
+              "id": "58284751-848a-45ff-ba57-1acbd720df72",
+              "name": "Maija Tuomisalo",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJcjPXfQs4ZlA3is7d5mp4eLHT2YB9tAWJ5dtS2B7D6bgpGCbc=s48-mo",
+              "rating": 5,
+              "text": "toimiiii!!!!!",
+              "ts": 1782126224000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "fi"
+            },
+            {
+              "id": "a2dd69d6-58f2-4f25-b5b7-909fcce4119b",
+              "name": "JUAN VALLDEPÉREZ",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV_MgQOU8L4jCvpQEor9lXw1wpV_BNzTslUDV0Eo1iRnmWx57FQ=s48",
+              "rating": 5,
+              "text": "Con Ghostery navegas mucho mejor y mas tranquilo ya que bloquea todo lo que se mueve en los entresijos de la red, para mi, el mejor entre los mejores y lo recomiendo al 100%",
+              "ts": 1782121399000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "es"
+            },
+            {
+              "id": "728d80c8-ab2b-4bf8-affc-e5e31ba41266",
+              "name": "Gopal Pareek",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUf78oOaRV9G0N7BKBQ8SvHLreQB3IDSegaCZ3duzZmjbRIQGlclQ=s48",
+              "rating": 5,
+              "text": "very helpful",
+              "ts": 1782120523000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "en"
+            },
+            {
+              "id": "aff97685-0721-4bb7-a816-8c4b34542d45",
+              "name": "taviross",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL85IVi3pMn-hdU1wuy3Fluha84qvOLmBHaHSdDa_CYEv-qOg=s48-mo",
+              "rating": 5,
+              "text": "amazing ad blocker, super efficient",
+              "ts": 1782113743000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "en"
+            },
+            {
+              "id": "90f9fbdc-acfa-48b7-9cfe-1d5e6c251c24",
+              "name": "Ramón Leonardi",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKKyBkpphApQa9sszpKNWg3W8mwQvsjctBlRqhGqNLNiJSVMA=s48-mo",
+              "rating": 5,
+              "text": "Excelente extension.",
+              "ts": 1782091658000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.48",
+              "lang": "es"
+            },
+            {
+              "id": "61b56f32-58f6-4af6-979f-dda1f638b104",
+              "name": "Arda Atik",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKXuLcpGnoKaACilAvz6qWTBiKJRvCRFcaTeoYbleJmVESv0w=s48-mo",
+              "rating": 5,
+              "text": "Dank euch muss ich keine nervigen Cookies mehr deaktivieren. Das Fenster plöppt für ne Millisekunde auf und ist dann wieder weg *Daumen hoch*",
+              "ts": 1782035143000,
+              "date": "Jun 21, 2026",
+              "version": "10.5.48",
+              "lang": "de"
+            },
+            {
+              "id": "608714a0-94f5-4815-87b0-98920906a208",
+              "name": "Akash Gautam",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXBvRPPcIXUfnyHkeeLivpoUc8TyoN90nSxOYM0NhZkRgh6X5sF=s48",
+              "rating": 4,
+              "text": "Best extension for ad blocking.",
+              "ts": 1781957936000,
+              "date": "Jun 20, 2026",
+              "version": "10.5.48",
+              "lang": "en"
+            }
+          ]
+        },
+        "edge": {
+          "total": 359,
+          "fetched": 4,
+          "windowDays": 7,
+          "complete": true,
+          "reviews": [
+            {
+              "id": "26d91537-5ed8-ee62-25d0-04750c088140",
+              "name": "Gerhard",
+              "avatar": null,
+              "rating": 5,
+              "text": "Überragend !!",
+              "ts": 1782460853498,
+              "date": "Jun 26, 2026",
+              "version": "",
+              "lang": "DE-DE"
+            },
+            {
+              "id": "2140be57-8dd6-dedf-7825-23d9b7d81168",
+              "name": "Victor",
+              "avatar": null,
+              "rating": 5,
+              "text": "100% recommended.\nMakes you way more gangsta than you already are.",
+              "ts": 1782360121663,
+              "date": "Jun 25, 2026",
+              "version": "",
+              "lang": "EN-US"
+            },
+            {
+              "id": "1ff09b7a-68d4-f3bb-7fcc-e8c1101f4e26",
+              "name": "Jorge",
+              "avatar": null,
+              "rating": 4,
+              "text": "Recomende-se por eficiência e eficácia.",
+              "ts": 1782136571816,
+              "date": "Jun 22, 2026",
+              "version": "",
+              "lang": "PT-BR"
+            },
+            {
+              "id": "a7d40514-461d-e2ea-750e-848b1d5c777f",
+              "name": "Ashley",
+              "avatar": null,
+              "rating": 5,
+              "text": "Amazing Ad blocker. An easy 5 stars.",
+              "ts": 1782121102073,
+              "date": "Jun 22, 2026",
+              "version": "",
+              "lang": "EN-US"
+            }
+          ]
+        },
+        "firefox": {
+          "total": 5606,
+          "fetched": 8,
+          "windowDays": 7,
+          "complete": true,
+          "reviews": [
+            {
+              "id": "2723493",
+              "name": "Firefox user 19711369",
+              "avatar": null,
+              "rating": 5,
+              "text": "Vrai bloqueur de pub.\n\nNotamment pour youtube.\n\nA savoir que je m'en sers aussi sur mon smartphone, avec firefox, pour aussi éviter les pubs sur youtube.\n\nSans parler du fait qu'il refuse tjs les cookies pour nous !\n\nJe recommande vivement !",
+              "ts": 1782416601000,
+              "date": "Jun 25, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2723311",
+              "name": "NF",
+              "avatar": null,
+              "rating": 5,
+              "text": "Yo its actually one the best extensions in firefox, every page feels less clustered without ads and more easy to view sites..",
+              "ts": 1782352910000,
+              "date": "Jun 25, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2722772",
+              "name": "Firefox user 18918498",
+              "avatar": null,
+              "rating": 5,
+              "text": "Top Tool.",
+              "ts": 1782206128000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2722721",
+              "name": "MF Daniel ⁶⁶⁶👹🔥    🅥",
+              "avatar": null,
+              "rating": 5,
+              "text": "la recomiendo 100% si sirve y no se que mas decir :V",
+              "ts": 1782192301000,
+              "date": "Jun 23, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2722633",
+              "name": "ace",
+              "avatar": null,
+              "rating": 5,
+              "text": "Works extremely well and have never had a issue with this extension. Would recommend this extension to anyone!",
+              "ts": 1782160137000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2722573",
+              "name": "dummdiedei",
+              "avatar": null,
+              "rating": 5,
+              "text": "Ich weiß zwar nicht, was genau und wie das Programm es tut aber es ist sehr unauffällig und scheinbar auch effektiv.\n\nDanke :)",
+              "ts": 1782150999000,
+              "date": "Jun 22, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2722254",
+              "name": "Ghost",
+              "avatar": null,
+              "rating": 5,
+              "text": "very spooky just like me. i never know it's there because it works so fast and well, but it's always working hard to banish annoying ads and popups.",
+              "ts": 1782053358000,
+              "date": "Jun 21, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            },
+            {
+              "id": "2721972",
+              "name": "Firefox user 19994140",
+              "avatar": null,
+              "rating": 5,
+              "text": "extremely good adblocker, not anoying, blocks evrything.",
+              "ts": 1781944291000,
+              "date": "Jun 20, 2026",
+              "version": "10.5.47",
+              "lang": ""
+            }
+          ]
+        },
+        "opera": {
+          "total": 138,
+          "fetched": 0,
+          "windowDays": 7,
+          "complete": true,
+          "reviews": []
+        }
+      }
+    }
+  }
+}
