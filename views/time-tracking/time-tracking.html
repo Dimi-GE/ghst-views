@@ -1,0 +1,95 @@
+<div class="tt-view">
+
+    <div class="tt-header">
+        <h1 class="tt-title">Hours Reports</h1>
+    </div>
+
+    <!-- Settings + Timer row -->
+    <div class="tt-top-row">
+
+        <div class="tt-top-panel">
+            <h2 class="section-title">Timesheet Settings</h2>
+            <div class="tt-settings-card">
+                <div class="tt-settings-row">
+                    <label class="tt-settings-label">Freelancer Name</label>
+                    <input type="text" id="tt-freelancer" class="tt-settings-input" placeholder="Your name" />
+                </div>
+                <div class="tt-settings-row">
+                    <label class="tt-settings-label">Company</label>
+                    <input type="text" id="tt-company" class="tt-settings-input" placeholder="Client / company name" />
+                </div>
+            </div>
+        </div>
+
+        <div class="tt-top-panel">
+            <h2 class="section-title">Timer</h2>
+            <div class="tt-timer-card">
+                <div class="tt-timer-left">
+                    <div class="tt-timer-display" id="tt-display">00:00:00</div>
+                    <div class="tt-timer-meta">
+                        <input type="text" id="tt-session-label" class="tt-session-input" placeholder="What are you working on?" />
+                    </div>
+                </div>
+                <div class="tt-timer-actions">
+                    <button class="tt-btn-start" id="tt-btn-start">Start</button>
+                    <button class="tt-btn-submit" id="tt-btn-submit">Submit</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Timesheet Calendar -->
+    <div class="tt-section">
+        <div class="tt-cal-topbar">
+            <div class="tt-cal-nav">
+                <button class="tt-cal-arrow" id="tt-cal-prev">&#8249;</button>
+                <span class="tt-cal-month-label" id="tt-cal-label"></span>
+                <button class="tt-cal-arrow" id="tt-cal-next">&#8250;</button>
+            </div>
+            <div class="tt-file-ops">
+                <div class="tt-file-panel" id="tt-file-panel">
+                    <button class="tt-export-btn" id="tt-export-json">
+                        <i class="ti ti-download"></i> Export JSON
+                    </button>
+                    <label class="tt-export-btn tt-import-label">
+                        <i class="ti ti-upload"></i> Import JSON
+                        <input type="file" id="tt-import-json" accept=".json" style="display:none">
+                    </label>
+                    <button class="tt-export-btn" id="tt-export-pdf">
+                        <i class="ti ti-file-type-pdf"></i> Export PDF
+                    </button>
+                </div>
+                <button class="tt-file-toggle" id="tt-file-toggle" title="File options">
+                    <i class="ti ti-file-export"></i>
+                </button>
+            </div>
+        </div>
+        <div class="tt-calendar" id="tt-calendar"></div>
+        <div class="tt-month-total">
+            <span class="tt-month-total-label">Total this month</span>
+            <span class="tt-month-total-value" id="tt-month-total">0h</span>
+        </div>
+    </div>
+
+    <!-- Day entry modal -->
+    <div class="tt-modal-backdrop" id="tt-modal-backdrop">
+        <div class="tt-modal">
+            <div class="tt-modal-title" id="tt-modal-date-label"></div>
+            <div class="tt-modal-field">
+                <label class="tt-modal-label">Hours</label>
+                <input type="number" id="tt-modal-hours" class="tt-modal-input" min="0" max="24" step="0.5" placeholder="0" />
+            </div>
+            <div class="tt-modal-field">
+                <label class="tt-modal-label">Tasks <span class="tt-modal-hint">one per line</span></label>
+                <textarea id="tt-modal-tasks" class="tt-modal-textarea" placeholder="What did you work on?"></textarea>
+            </div>
+            <div class="tt-modal-actions">
+                <button class="tt-modal-btn tt-modal-btn--cancel" id="tt-modal-cancel">Cancel</button>
+                <button class="tt-modal-btn tt-modal-btn--clear" id="tt-modal-delete">Clear</button>
+                <button class="tt-modal-btn tt-modal-btn--save" id="tt-modal-save">Save</button>
+            </div>
+        </div>
+    </div>
+
+</div>

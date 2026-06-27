@@ -1,0 +1,70 @@
+:root {
+  /* ── layout dims ── */
+  --sidebar-width: 200px;
+  --sidebar-collapsed-width: 56px;
+  --header-height: 50px;
+  --max-width: 1280px;
+
+  /* ── base palette (from Financial Dashboard) ── */
+  --app-bg: #0a0a0f;
+  --surface: #13131a;
+  --border: #1e1e2e;
+  --card-bg: #13131a;
+  --card-border: #1e1e2e;
+  --text-primary: #ffffff;
+  --text-muted: #888;
+  --accent: #f5a800;
+  --negative: #e05c5c;
+
+  /* ── roles: primary / secondary / controls ── */
+  --btn-primary-bg: var(--accent);
+  --btn-primary-fg: #0a0a0f;
+  --btn-secondary-bg: transparent;
+  --btn-secondary-fg: var(--text-muted);
+  --btn-secondary-border: var(--border);
+  --control-bg: var(--surface);
+  --control-border: var(--border);
+  --control-fg: var(--text-primary);
+
+  /* ── per-store accents ── */
+  --store-chrome:  #4caf7d;  /* green  */
+  --store-firefox: #ff7043;  /* sunset */
+  --store-edge:    #42a5f5;  /* blue   */
+  --store-opera:   #e05c5c;  /* red    */
+}
+
+/* ── reusable roles ── */
+.btn {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 8px 16px;
+  transition: opacity 0.15s, border-color 0.15s, color 0.15s;
+}
+.btn-primary   { background: var(--btn-primary-bg); color: var(--btn-primary-fg); border: none; }
+.btn-primary:hover { opacity: 0.88; }
+.btn-secondary { background: var(--btn-secondary-bg); color: var(--btn-secondary-fg); border: 1px solid var(--btn-secondary-border); }
+.btn-secondary:hover { color: var(--text-primary); border-color: var(--text-muted); }
+
+.control {
+  background: var(--control-bg);
+  border: 1px solid var(--control-border);
+  color: var(--control-fg);
+  border-radius: 6px;
+  padding: 7px 10px;
+  font-size: 13px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.15s;
+}
+.control:focus { border-color: var(--accent); }
+
+.section-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
