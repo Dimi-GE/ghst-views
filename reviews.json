@@ -1,15 +1,147 @@
 {
-  "generatedAt": "2026-06-26T16:26:32.786Z",
+  "generatedAt": "2026-06-29T07:41:51.106Z",
   "extensions": {
     "ghostery": {
       "name": "Ghostery",
       "stores": {
         "chrome": {
-          "total": 8037,
-          "fetched": 23,
+          "total": 8047,
+          "fetched": 31,
           "windowDays": 7,
           "complete": true,
           "reviews": [
+            {
+              "id": "48ba01cd-c2c2-447a-82ae-7ef1e3840c25",
+              "name": "3. Nguyễn Trương Quốc Anh",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXkNinVj5husclLW3KU3CskrYi419TGn-2K2VUchvrbvjHZXjOn=s48",
+              "rating": 4,
+              "text": "chỉ cần fix lại lỗi mà youtube bị lỗi kết nối khi bật chặn quảng cáo là ok",
+              "ts": 1782697903000,
+              "date": "Jun 29, 2026",
+              "version": "10.5.49",
+              "lang": "vi"
+            },
+            {
+              "id": "ca19a8d2-5d0f-4422-8d79-338efc712899",
+              "name": "Pedro R. Castro",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXER_tobIDY5qCyFPneqpY26nHhrDF8vhKQXzjxHSZmfMUU4gn2=s48",
+              "rating": 5,
+              "text": "Funciona bem!\nSem complicações.",
+              "ts": 1782691902000,
+              "date": "Jun 29, 2026",
+              "version": "10.5.49",
+              "lang": "pt"
+            },
+            {
+              "id": "19c55f0e-f551-4df0-a473-9b4e19a8aa3c",
+              "name": "Алексей Кривоногов",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKjzKV8oK3qFk9XU8qb4REI03-KF3VaC3-B-FAK2HFYT0GmzA=s48-mo",
+              "rating": 5,
+              "text": "Работает хорошо, рекламу блокирует.",
+              "ts": 1782662037000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": "ru"
+            },
+            {
+              "id": "385d03ab-f466-4051-bc01-03008041e850",
+              "name": "Coco Gilibert",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK6BGBRcnbLFz3WZ4LTfszJwBgpx-xwnaY0_VvV_Ivsj9-mBA=s48-mo",
+              "rating": 4,
+              "text": "merci je pense que le pc respire grace a votre aide",
+              "ts": 1782660998000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": "fr"
+            },
+            {
+              "id": "8d6f6654-2f79-4a69-894a-a2bcf9da1d24",
+              "name": "Jhonatan Dziadzio",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVqOZstfQuC_ZQR-K7RrZmBo2VLPcwKnBep7tkcY0a2ej6ozAXI=s48",
+              "rating": 5,
+              "text": "muito bom, o bloqueador de anuncios funciona perfeitamente, agora para deixar mais completo falta apenas uma VPN integrada",
+              "ts": 1782655385000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": "pt"
+            },
+            {
+              "id": "9d03f013-9f5d-400c-8dc8-2daa530abde5",
+              "name": "C N Spi",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUTW1j9h7oaUflH2Gc6MqRMGbXMrT7UX66rGgEkU3j1ElDmYkKZ=s48",
+              "rating": 5,
+              "text": "Excellent, merci.",
+              "ts": 1782650198000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": "fr"
+            },
+            {
+              "id": "00948b9d-00aa-4e0b-8eed-29702c506d76",
+              "name": "Haris Bin Zonaid",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIqTM0N88vhXfKoFh_KF3jPjEVhp-i73KiposfpwvhfxgRY=s48-mo",
+              "rating": 5,
+              "text": "I like this one",
+              "ts": 1782615568000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "d577f557-14c2-4b2b-9d31-0119ad64bd8a",
+              "name": "Casper Jasper",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU3psoZUy6Olj_iGphWkf9LaAkAc_EldJdCPqX0kk4_DpRR7_xv=s48",
+              "rating": 5,
+              "text": "Really nice ad blocker\nDoes what it is supposed to do",
+              "ts": 1782580765000,
+              "date": "Jun 27, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "9efad9df-2c31-4417-b13a-e2fbb9203b64",
+              "name": "Nikith Shetty",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU2kHwNM-gKw6fZSihMJLQ6QqxkjXJaw-wWR-UEbEZ_nKR0s5yT=s48",
+              "rating": 5,
+              "text": "Does it's job. Nothing more, nothing less.",
+              "ts": 1782554982000,
+              "date": "Jun 27, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "8293a83b-b7ba-4b3e-909e-d6889fcc3bd7",
+              "name": "Dhiraj",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjV4skZGi3LHScK6VcAE0uMJusvBl-8fSx5JHf7-kaEPGrnI7DPw=s48",
+              "rating": 5,
+              "text": "blocks all pop ups but doesnot block redirection some time. overall great",
+              "ts": 1782533096000,
+              "date": "Jun 27, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
+            {
+              "id": "f80df336-03b6-4b2b-96ba-e7dd988b42bd",
+              "name": "JM SM",
+              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKHOnEjqS4gtBije-_OW6fSJSFzjucxYX3kRcfL-xDlgk7-vQ=s48-mo",
+              "rating": 5,
+              "text": "O melhor bloqueador de anúncios...",
+              "ts": 1782525537000,
+              "date": "Jun 27, 2026",
+              "version": "10.5.49",
+              "lang": "pt"
+            },
+            {
+              "id": "baa28772-7b61-466d-816d-fb9e7c572aac",
+              "name": "Laurie Pelow",
+              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUEkpbw_VqEa3V0r6HXX8qPVTxfxubxniFRAj2iit2EIFh14r013w=s48",
+              "rating": 4,
+              "text": "I didn't set it up, so I don't know TOO much about it, but I am sure that I encounter FAR less popups/unwanted ads when I'm using the setup my dude made for us - which includes you guys - Ghostery - so thank you so very much!  It's a fantastic product!",
+              "ts": 1782503720000,
+              "date": "Jun 26, 2026",
+              "version": "10.5.49",
+              "lang": "en"
+            },
             {
               "id": "f7a19768-62f6-4480-8b8a-d2ae20109b5c",
               "name": "No One",
@@ -218,50 +350,6 @@
               "date": "Jun 22, 2026",
               "version": "10.5.48",
               "lang": "en"
-            },
-            {
-              "id": "aff97685-0721-4bb7-a816-8c4b34542d45",
-              "name": "taviross",
-              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL85IVi3pMn-hdU1wuy3Fluha84qvOLmBHaHSdDa_CYEv-qOg=s48-mo",
-              "rating": 5,
-              "text": "amazing ad blocker, super efficient",
-              "ts": 1782113743000,
-              "date": "Jun 22, 2026",
-              "version": "10.5.48",
-              "lang": "en"
-            },
-            {
-              "id": "90f9fbdc-acfa-48b7-9cfe-1d5e6c251c24",
-              "name": "Ramón Leonardi",
-              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKKyBkpphApQa9sszpKNWg3W8mwQvsjctBlRqhGqNLNiJSVMA=s48-mo",
-              "rating": 5,
-              "text": "Excelente extension.",
-              "ts": 1782091658000,
-              "date": "Jun 22, 2026",
-              "version": "10.5.48",
-              "lang": "es"
-            },
-            {
-              "id": "61b56f32-58f6-4af6-979f-dda1f638b104",
-              "name": "Arda Atik",
-              "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKXuLcpGnoKaACilAvz6qWTBiKJRvCRFcaTeoYbleJmVESv0w=s48-mo",
-              "rating": 5,
-              "text": "Dank euch muss ich keine nervigen Cookies mehr deaktivieren. Das Fenster plöppt für ne Millisekunde auf und ist dann wieder weg *Daumen hoch*",
-              "ts": 1782035143000,
-              "date": "Jun 21, 2026",
-              "version": "10.5.48",
-              "lang": "de"
-            },
-            {
-              "id": "608714a0-94f5-4815-87b0-98920906a208",
-              "name": "Akash Gautam",
-              "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXBvRPPcIXUfnyHkeeLivpoUc8TyoN90nSxOYM0NhZkRgh6X5sF=s48",
-              "rating": 4,
-              "text": "Best extension for ad blocking.",
-              "ts": 1781957936000,
-              "date": "Jun 20, 2026",
-              "version": "10.5.48",
-              "lang": "en"
             }
           ]
         },
@@ -318,11 +406,33 @@
           ]
         },
         "firefox": {
-          "total": 5606,
+          "total": 5611,
           "fetched": 8,
           "windowDays": 7,
           "complete": true,
           "reviews": [
+            {
+              "id": "2724234",
+              "name": "「 ✦ Z E T A ✦ 」",
+              "avatar": null,
+              "rating": 5,
+              "text": "so good",
+              "ts": 1782680751000,
+              "date": "Jun 28, 2026",
+              "version": "10.5.49",
+              "lang": ""
+            },
+            {
+              "id": "2723829",
+              "name": "ok",
+              "avatar": null,
+              "rating": 1,
+              "text": "Got a pop up with a broken close button, so here ya go, this extension wouldve gotten one star beforehand too, since it barely works properly, if youre gonna install an ad blocker, install uBlock, atleast that actually works.\nDont waste your time on this junk.",
+              "ts": 1782543397000,
+              "date": "Jun 27, 2026",
+              "version": "10.5.49",
+              "lang": ""
+            },
             {
               "id": "2723493",
               "name": "Firefox user 19711369",
@@ -386,28 +496,6 @@
               "text": "Ich weiß zwar nicht, was genau und wie das Programm es tut aber es ist sehr unauffällig und scheinbar auch effektiv.\n\nDanke :)",
               "ts": 1782150999000,
               "date": "Jun 22, 2026",
-              "version": "10.5.47",
-              "lang": ""
-            },
-            {
-              "id": "2722254",
-              "name": "Ghost",
-              "avatar": null,
-              "rating": 5,
-              "text": "very spooky just like me. i never know it's there because it works so fast and well, but it's always working hard to banish annoying ads and popups.",
-              "ts": 1782053358000,
-              "date": "Jun 21, 2026",
-              "version": "10.5.47",
-              "lang": ""
-            },
-            {
-              "id": "2721972",
-              "name": "Firefox user 19994140",
-              "avatar": null,
-              "rating": 5,
-              "text": "extremely good adblocker, not anoying, blocks evrything.",
-              "ts": 1781944291000,
-              "date": "Jun 20, 2026",
               "version": "10.5.47",
               "lang": ""
             }
